@@ -8,15 +8,15 @@ Sono Andrea De Laurentis, conosciuto online come "Riko". Sono un **full stacker*
 <p aling="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/andrea-de-laurentis-94000025a/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0e76a8?logo=linkedin-icon&style=for-the-badge&logoColor=white" alt="LinkedIn">
+    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0e76a8?logo=linkedin-icon&style=for-the-badge&logoColor=white" alt="LinkedIn" style="text-decoration: none;">
   </a>
   <!-- Instagram -->
   <a href="https://www.instagram.com/andrea.delaurentis/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram" style="text-decoration: none;">
   </a>
   <!-- GitHub -->
   <a target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/-GitHub-181717?logo=github&style=for-the-badge&logoColor=white" alt="GitHub">
+    <img src="https://custom-icon-badges.demolab.com/badge/-GitHub-181717?logo=github&style=for-the-badge&logoColor=white" alt="GitHub" style="text-decoration: none;">
   </a>
 </p>
 
