@@ -10,14 +10,14 @@ Sono Andrea De Laurentis, conosciuto online come "Riko". Sono un **full stacker*
   <a href="https://www.linkedin.com/in/andrea-de-laurentis/">
     <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0e76a8?logo=linkedin-icon&style=for-the-badge&logoColor=white" title="LinkedIn" alt="LinkedIn" />
   </a>
-  <!-- Instagram -->
+  <!-- Instagram
   <a href="https://www.instagram.com/riko_oninternet/">
     <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" title="Instagram" alt="Instagram" />
   </a>
-  <!-- GitHub -->
-  <a href="https://github.com/Riko-dev">
+  GitHub
+  <a href="https://github.com/Riko-onInternet">
     <img src="https://custom-icon-badges.demolab.com/badge/-GitHub-181717?logo=github&style=for-the-badge&logoColor=white" title="GitHub" alt="GitHub" />
-  </a>
+  </a> -->
 </p>
 
 ---
