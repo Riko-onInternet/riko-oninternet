@@ -7,11 +7,11 @@ Sono Andrea De Laurentis, conosciuto online come "Riko". Sono un **full stacker*
 <!-- Social -->
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/andrea-de-laurentis-94000025a/">
+  <a href="https://www.linkedin.com/in/andrea-de-laurentis/">
     <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0e76a8?logo=linkedin-icon&style=for-the-badge&logoColor=white" title="LinkedIn" alt="LinkedIn" />
   </a>
   <!-- Instagram -->
-  <a href="https://www.instagram.com/andrea.delaurentis/">
+  <a href="https://www.instagram.com/riko_oninternet/">
     <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" title="Instagram" alt="Instagram" />
   </a>
   <!-- GitHub -->
